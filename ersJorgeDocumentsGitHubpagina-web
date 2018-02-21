@@ -1,0 +1,57 @@
+* [33m5856fd7[m[33m ([m[1;32marregla-fotos[m[33m)[m Arregla los pies de fotos
+[31m|[m * [33mfb66cd4[m[33m ([m[1;32mcaracteristica-nueva[m[33m)[m Cambia el nombre al proyecto
+[31m|[m *   [33mb3f3d20[m[33m ([m[1;32mCambiar-color-delantero[m[33m)[m Merge branch 'master' of https://github.com/jorgemario2009/pagina-web into Cambiar-color-delantero
+[31m|[m [33m|[m[34m\[m  
+[31m|[m [33m|[m * [33m48ec00c[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m Update index.html
+[31m|[m * [34m|[m [33mcc1c252[m[33m ([m[1;31morigin/Cambiar-color-delantero[m[33m)[m Cambiamos el encabezado
+[31m|[m [34m|[m[34m/[m  
+[31m|[m * [33m74238e3[m kkkkk
+[31m|[m[31m/[m  
+*   [33mc24688f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m Merge pull request #4 from jorgemario2009/Cambiar-color-delantero
+[35m|[m[36m\[m  
+[35m|[m *   [33mf1ee36a[m Merge branch 'Cambiar-color-delantero' of https://github.com/jorgemario2009/pagina-web into Cambiar-color-delantero
+[35m|[m [1;31m|[m[1;32m\[m  
+[35m|[m [1;31m|[m *   [33md193549[m Merge branch 'master' into Cambiar-color-delantero
+[35m|[m [1;31m|[m [1;33m|[m[35m\[m  
+[35m|[m [1;31m|[m[35m_[m[1;33m|[m[35m/[m  
+[35m|[m[35m/[m[1;31m|[m [1;33m|[m   
+* [1;31m|[m [1;33m|[m   [33mcdd8296[m Merge pull request #5 from jorgemario2009/Cambiar-color-fondo
+[1;35m|[m[1;36m\[m [1;31m\[m [1;33m\[m  
+[1;35m|[m * [1;31m\[m [1;33m\[m   [33ma5da0bb[m[33m ([m[1;31morigin/Cambiar-color-fondo[m[33m, [m[1;32mCambiar-color-fondo[m[33m)[m Merge branch 'Cambiar-color-fondo' of https://github.com/jorgemario2009/pagina-web into Cambiar-color-fondo
+[1;35m|[m [31m|[m[32m\[m [1;31m\[m [1;33m\[m  
+[1;35m|[m * [32m|[m [1;31m|[m [1;33m|[m [33m787efa0[m Mas lineas
+[1;35m|[m [32m|[m [32m|[m [1;31m|[m * [33m4f168bd[m www
+[1;35m|[m [32m|[m [32m|[m * [32m|[m [33m59efbed[m sssdsdsdsd
+[1;35m|[m [32m|[m [32m|[m * [32m|[m [33m128ee9b[m Arregla el diseño de la pagina web
+[1;35m|[m [32m|[m [32m|[m [32m|[m[32m/[m  
+[1;35m|[m [32m|[m [32m|[m *   [33m99edc6f[m Merge branch 'master' into Cambiar-color-delantero
+[1;35m|[m [32m|[m [32m|[m [33m|[m[1;35m\[m  
+[1;35m|[m [32m|[m[1;35m_[m[32m|[m[1;35m_[m[33m|[m[1;35m/[m  
+[1;35m|[m[1;35m/[m[32m|[m [32m|[m [33m|[m   
+* [32m|[m [32m|[m [33m|[m   [33m5290ebd[m Merge pull request #3 from jorgemario2009/Cambiar-color-fondo
+[35m|[m[32m\[m [32m\[m [32m\[m [33m\[m  
+[35m|[m [32m|[m [32m|[m[32m/[m [33m/[m  
+[35m|[m [32m|[m[32m/[m[32m|[m [33m|[m   
+[35m|[m * [32m|[m [33m|[m   [33m77ff0e8[m Merge branch 'master' into Cambiar-color-fondo
+[35m|[m [32m|[m[35m\[m [32m\[m [33m\[m  
+[35m|[m [32m|[m[35m/[m [32m/[m [33m/[m  
+[35m|[m[35m/[m[32m|[m [32m/[m [33m/[m   
+[35m|[m [32m|[m[32m/[m [33m/[m    
+* [32m|[m [33m|[m   [33m4e904c0[m Merge pull request #2 from jorgemario2009/Cambiar-color-delantero
+[1;33m|[m[1;34m\[m [32m\[m [33m\[m  
+* [1;34m\[m [32m\[m [33m\[m   [33m0153d64[m Merge pull request #1 from jorgemario2009/Cambiar-color-delantero
+[1;35m|[m[1;36m\[m [1;34m\[m [32m\[m [33m\[m  
+[1;35m|[m [1;36m|[m [1;34m|[m * [33m|[m [33m359aefc[m Modificado
+[1;35m|[m [1;36m|[m [1;34m|[m * [33m|[m [33mc8b1d0e[m Cortar palabra
+[1;35m|[m [1;36m|[m[1;35m_[m[1;34m|[m[1;35m/[m [33m/[m  
+[1;35m|[m[1;35m/[m[1;36m|[m [1;34m|[m [33m|[m   
+[1;35m|[m [1;36m|[m [1;34m|[m * [33m0c526aa[m otra linea
+[1;35m|[m [1;36m|[m [1;34m|[m[1;34m/[m  
+[1;35m|[m [1;36m|[m * [33m1471eae[m No existe linea
+[1;35m|[m [1;36m|[m[1;36m/[m  
+[1;35m|[m * [33mbf8cb6f[m Cambiar delantero
+[1;35m|[m[1;35m/[m  
+* [33mb600f86[m Modifica el subtitulo
+* [33mc42256a[m Alguien olvido poner el charset
+* [33mc2f6842[m Creo un prototipo para la pagina
+* [33m24ca0ae[m Initial commit
